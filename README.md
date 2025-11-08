@@ -1,4 +1,4 @@
-# Hi there, I'm cl5rr (Norg)
+# Hi there, I'm Norg (cl5rr)
 
 ![Waving](https://media.tenor.com/VE0M3FYRwxQAAAAi/wave-hi.gif)
 
@@ -22,3 +22,4 @@ I am currently learning computer science while improving in the languages listed
 
 ## Contact
 [![Discord](https://img.shields.io/badge/Discord-Norg-blue?style=for-the-badge&logo=discord)](https://discord.com/users/778621308912926741)
+[![Roblox](https://img.shields.io/badge/Roblox-cl5rr-red?style=for-the-badge&logo=roblox)](https://www.roblox.com/users/1753358221/profile)
